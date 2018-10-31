@@ -1,0 +1,29 @@
+li{
+    display:InLine;
+    /* float: right; */
+    margin-left:20px;
+    color: grey;  
+    position:relative;
+    top:-80px;
+    left:1000px;
+
+}
+h1{
+    color: White;
+    background: hsla(170, 50%, 45%, 1);
+    width: 300px;
+    height: 100px;    
+    box-sizing: border-box;
+    left:90px;
+    text-align:center;
+    position:relative;
+    top:10px;
+    padding:25px;
+}
+
+.bg {
+    background-image: url("dark-grey-terrazzo.png");
+    position:relative;
+    top:100px;
+
+}
